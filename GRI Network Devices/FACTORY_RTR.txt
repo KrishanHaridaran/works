@@ -1,9 +1,0 @@
-=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.02.23 10:19:48 =~=~=~=~=~=~=~=~=~=~=~=
-Using username "sysadmin".
-sysadmin@172.20.255.233's password: 
-Access denied
-sysadmin@172.20.255.233's password: 
-Access denied
-sysadmin@172.20.255.233's password: 
-Access denied
-sysadmin@172.20.255.233's password: 
